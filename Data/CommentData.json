@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Ram",
+        "post":5,
+        "likes":25000
+    },
+    {
+        "id":2,
+        "name":"Vicky",
+        "post":15,
+        "likes":190
+    },
+    {
+        "id":3,
+        "name":"Vignesh",
+        "post":50,
+        "likes":500
+    },
+    {
+        "id":4,
+        "name":"Vigneshwar",
+        "post":590,
+        "likes":2510
+    }
+] 
